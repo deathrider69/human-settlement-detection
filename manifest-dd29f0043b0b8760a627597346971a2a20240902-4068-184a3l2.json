@@ -1,0 +1,33 @@
+{
+  "description": "This is a system generated manifest of files expected to be present in this zip. It can be safely deleted.",
+  "metadata": {
+    "generated_at": "2024-09-02T09:54:40+00:00",
+    "trigger": {
+      "file_hashid": "unknown",
+      "action": "unknown"
+    }
+  },
+  "manifest": [
+    {
+      "filename": "id_map.csv",
+      "filesize": 2408896,
+      "description": "This is a mapping between the row and unique IDs in the test set. You can use this to link your predictions to the unique IDs prior to making your submission",
+      "created_at": "2024-09-02 09:44:25 UTC",
+      "updated_at": "2024-09-02 09:46:47 UTC"
+    },
+    {
+      "filename": "SampleSubmission.csv",
+      "filesize": 1920009,
+      "description": null,
+      "created_at": "2024-09-02 09:47:37 UTC",
+      "updated_at": "2024-09-02 09:47:37 UTC"
+    },
+    {
+      "filename": "gcim_challenge_baseline_models.ipynb",
+      "filesize": 8237,
+      "description": "This is a notebook illustrating how to get started with the challenge, including how to handle the h5py data files.",
+      "created_at": "2024-09-02 09:53:06 UTC",
+      "updated_at": "2024-09-02 09:54:40 UTC"
+    }
+  ]
+}
